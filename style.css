@@ -8,3 +8,23 @@ color: blue;
 .secondary-color{
    
 }
+
+.section-two img{
+   width: 150px;
+   height: auto;
+  
+}
+.icon-box{
+   width: 60px;
+   height: 60px;
+   background: linear-gradient(90deg,blue,rgb(243, 1, 194));
+   
+}
+.stop-waiting{
+   height: 100vh;
+   background:linear-gradient(to right, rgba(0, 0, 0, 0.616),rgba(31, 27, 27, 0.42)),url(img/stop-waiting.png) no-repeat;
+   background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+   background-blend-mode: overlay;  
+}
